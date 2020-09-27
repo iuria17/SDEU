@@ -1,0 +1,38 @@
+Ejecución:  node safe eventos1
+Result for event: C5_1 is:  good
+Result for event: C2_1 is:  good
+Result for event: C3_1 is:  good
+Result for event: C4_1 is:  good
+Result for event: C6_1 is:  good
+Result for event: C2_2 is:  good
+
+Ejecución:  node safe eventos2
+Result for event: C5_1 is:  good
+Result for event: C2_1 is:  good
+Result for event: C3_1 is:  good
+Result for event: C4_1 is:  good
+Result for event: C6_1 is:  good
+Result for event: C2_2 is:  good
+
+Ejecución:  node safe eventos3
+Result for event: C5_1 is:  good
+Result for event: C2_1 is:  good
+Result for event: C3_1 is:  good
+Result for event: C4_1 is:  good
+Result for event: C6_1 is:  bad
+Result for event: C2_2 is:  bad
+
+Ejecución:  node safe eventos4
+Result for event: C1_1 is:  good
+Result for event: C1_2 is:  good
+Result for event: C3_2 is:  good
+
+Ejecución:  node safe eventos5
+Result for event: C1_1 is:  bad
+Result for event: C1_2 is:  good
+Result for event: C3_2 is:  good
+
+Ejecución:  node safe eventos6
+Result for event: C1_1 is:  good
+Result for event: C1_2 is:  good
+Result for event: C3_2 is:  bad
